@@ -1,0 +1,67 @@
+#email
+
+Jeff@hotmail.com
+Wed Dec  1 16:25:03 PST 2016
+Registering for Spring Term
+I understand you would like to register for the Spring term.
+Unfortunately, you don't have enough money.
+
+Peace,
+Jeff Kratz
+
+##email
+
+Martha@gmail.com
+Mon Dec  4 12:25:03 PST 2016
+Seling your iPhone
+I am responding to your ad for an iPhone 6.  
+I am willing to spend $30 for it, no more. Let me know 
+what you think.
+
+Cheers,
+Martha
+
+##text
+
+503-555-5353
+Mon Dec  5 18:55:03 PST 2016
+Your monthly phone plan is about to expire.  Please add credits to your
+account or your phone will be deactivated.
+
+##facebook
+
+Mark Zuckerberg
+Wed Dec  7 04:25:03 PST 2016
+Hi Josh,
+
+I was really impressed with your coding skills, and I've decided
+that you would handle the company much better than I would.  As such,
+I am offering you the position of CEO at Facebook, should you choose
+to accept it.
+
+All the best,
+Mark
+
+##email
+
+Confucious@yahoo.com
+Fri Dec  9 04:25:03 PST 2016
+Reminder
+Hi Josh,
+
+I am just writing to remind you of the importance of education. Teaching
+is one of the noblest professions, and one day you should help others learn
+what you have learned yourself.
+
+Have a great day
+
+##facebook
+
+Noam Chomsky
+Sat Dec  10 13:15:03 PST 2016
+Your theory on generative grammar is excellent, better than my own I think.
+You should be the new professor of linguistics at MIT.  I will write you a
+letter of recommendation.
+
+All the best,
+The Noamster
